@@ -1,0 +1,10 @@
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.rxtmg
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.rxtst
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.exe.config
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.xml
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.exe
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\hoclieu.pdb
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\obj\x86\Debug\hoclieu.csprojResolveAssemblyReference.cache
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\obj\x86\Debug\hoclieu.exe
+C:\Users\Bui Vinh Hieu\Desktop\hoclieu\hoclieu\obj\x86\Debug\hoclieu.pdb

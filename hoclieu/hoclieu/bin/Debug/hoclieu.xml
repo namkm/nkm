@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hoclieu</name>
+    </assembly>
+    <members>
+        <member name="T:hoclieu.hoclieuRepository">
+            <summary>
+            The class representing the hoclieuRepository element repository.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the hoclieuRepository element repository.
+            </summary>
+        </member>
+        <member name="M:hoclieu.hoclieuRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepository.HọcLiệuSachMềm">
+            <summary>
+            The HọcLiệuSachMềm folder.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepository.Start">
+            <summary>
+            The Start folder.
+            </summary>
+        </member>
+        <member name="T:hoclieu.hoclieuRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder">
+            <summary>
+            The HọcLiệuSachMềmAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new HọcLiệuSachMềm  folder.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.GiaoBaiTập">
+            <summary>
+            The GiaoBaiTập item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.GiaoBaiTậpInfo">
+            <summary>
+            The GiaoBaiTập item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.JavascriptVoid0">
+            <summary>
+            The JavascriptVoid0 item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.JavascriptVoid0Info">
+            <summary>
+            The JavascriptVoid0 item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.SomeSpanTag">
+            <summary>
+            The SomeSpanTag item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.SomeSpanTagInfo">
+            <summary>
+            The SomeSpanTag item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HọcLiệuSachMềmAppFolder.HttpsHoclieuSachmemVnQuestionSet">
+            <summary>
+            The HttpsHoclieuSachmemVnQuestionSet folder.
+            </summary>
+        </member>
+        <member name="T:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder">
+            <summary>
+            The HttpsHoclieuSachmemVnQuestionSetFolder folder.
+            </summary>
+        </member>
+        <member name="M:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new HttpsHoclieuSachmemVnQuestionSet  folder.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Submit">
+            <summary>
+            The Submit item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.SubmitInfo">
+            <summary>
+            The Submit item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TrườngNayKhongĐượcĐểTrống">
+            <summary>
+            The TrườngNayKhongĐượcĐểTrống item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TrườngNayKhongĐượcĐểTrốngInfo">
+            <summary>
+            The TrườngNayKhongĐượcĐểTrống item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgSelectContainer">
+            <summary>
+            The NgSelectContainer item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgSelectContainerInfo">
+            <summary>
+            The NgSelectContainer item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgInput">
+            <summary>
+            The NgInput item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgInputInfo">
+            <summary>
+            The NgInput item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgOptionNgOptionMarked">
+            <summary>
+            The NgOptionNgOptionMarked item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgOptionNgOptionMarkedInfo">
+            <summary>
+            The NgOptionNgOptionMarked item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Number">
+            <summary>
+            The Number item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NumberInfo">
+            <summary>
+            The Number item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Number1">
+            <summary>
+            The Number1 item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Number1Info">
+            <summary>
+            The Number1 item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Text1">
+            <summary>
+            The Text1 item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Text1Info">
+            <summary>
+            The Text1 item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Text2">
+            <summary>
+            The Text2 item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Text2Info">
+            <summary>
+            The Text2 item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TrườngNayKhongĐượcĐểTrống1">
+            <summary>
+            The TrườngNayKhongĐượcĐểTrống1 item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TrườngNayKhongĐượcĐểTrống1Info">
+            <summary>
+            The TrườngNayKhongĐượcĐểTrống1 item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.Đong">
+            <summary>
+            The Đong item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.ĐongInfo">
+            <summary>
+            The Đong item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgArrowWrapper">
+            <summary>
+            The NgArrowWrapper item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.NgArrowWrapperInfo">
+            <summary>
+            The NgArrowWrapper item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TiếngAnh">
+            <summary>
+            The TiếngAnh item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.HttpsHoclieuSachmemVnQuestionSetFolder.TiếngAnhInfo">
+            <summary>
+            The TiếngAnh item info.
+            </summary>
+        </member>
+        <member name="T:hoclieu.hoclieuRepositoryFolders.StartAppFolder">
+            <summary>
+            The StartAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:hoclieu.hoclieuRepositoryFolders.StartAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Start  folder.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.StartAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.StartAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.StartAppFolder.GroupItems">
+            <summary>
+            The GroupItems item.
+            </summary>
+        </member>
+        <member name="P:hoclieu.hoclieuRepositoryFolders.StartAppFolder.GroupItemsInfo">
+            <summary>
+            The GroupItems item info.
+            </summary>
+        </member>
+        <member name="T:hoclieu.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:hoclieu.Recording1.repo">
+            <summary>
+            Holds an instance of the hoclieuRepository repository.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:hoclieu.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:hoclieu.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:hoclieu.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:hoclieu.Recording2">
+             <summary>
+            The Recording2 recording.
+             </summary>
+        </member>
+        <member name="F:hoclieu.Recording2.repo">
+            <summary>
+            Holds an instance of the hoclieuRepository repository.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:hoclieu.Recording2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:hoclieu.Recording2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:hoclieu.Recording2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:hoclieu.Recording2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

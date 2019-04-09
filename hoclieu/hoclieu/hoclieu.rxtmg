@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="hoclieu"
+      id="304d4554-7785-43a5-a2bc-ad60854172ff"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="hoclieu"
+      id="304d4554-7785-43a5-a2bc-ad60854172ff"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
